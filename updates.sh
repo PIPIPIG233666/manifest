@@ -33,4 +33,4 @@ changes=(
 258940
 258941
 )
-repopick ${changes[@]}&
+repopick -f ${changes[@]}&
