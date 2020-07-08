@@ -3,7 +3,7 @@
   <remote name="gitlab" fetch="ssh://git@gitlab.com" />
   <project name="sm6150-dev/android_device_xiaomi_davinci" path="device/xiaomi/davinci"/>
   <project name="sm6150-dev/android_device_xiaomi_sm6150-common" path="device/xiaomi/sm6150-common"/>
-  <project name="LineageOS/android_hardware_xiaomi" path="hardware/xiaomi" />
   <project name="sm6150-dev/android_kernel_xiaomi_sm6150" path="kernel/xiaomi/sm6150" />
-  <project name="pig.priv/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="gitlab" revision="lineage-17.1"/>
+  <project name="LineageOS/android_hardware_xiaomi" path="hardware/xiaomi" />
+  <project name="pig.priv/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="gitlab" />
 </manifest>
